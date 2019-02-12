@@ -5,6 +5,9 @@ To automate the process through Windows Task Schduler you will need to format th
 
 The script is dependent on ArcGIS Python Library but you can add the necessary libraries through the python console if you do not have access to Pro.
 
+Here is the Python Code for you to download and host on your machine. I also attached the ArcGIS API for https://developers.arcgis.com/python/sample-notebooks/overwriting-feature-layers/
+
+Here is the Feature Service Overview for the current SABER GeoJSON feed that Jim provided as well: https://azdema.maps.arcgis.com/home/item.html?id=424e7373554d4e0e9497f744269f4756#overview
 
 Any comments or questions can be directed to here:
 Eric Shreve, GIS Analyst Arizona Department of Emergency & Military Affairs (DEMA)
